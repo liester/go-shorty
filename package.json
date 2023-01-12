@@ -1,0 +1,23 @@
+{
+  "name": "go-shorty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liester/go-shorty.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liester/go-shorty/issues"
+  },
+  "homepage": "https://github.com/liester/go-shorty#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
